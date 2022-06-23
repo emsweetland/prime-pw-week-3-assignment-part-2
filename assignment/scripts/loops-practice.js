@@ -29,7 +29,7 @@ for (let i=3; i<6; i++) {   //change i=0 to i=3
 console.log('count even numbers from 2 to 10 (2, 4, 6, 8, 10):');
 for (let i = 1; i <= 10; i++) {
   if (i % 2 == 0) {         //if i is divisible by 2 with a remainder of 0, console log i  
-      console.log(i);
+      console.log(i);       
   } 
 }
 
